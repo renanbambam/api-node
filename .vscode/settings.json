@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "genieai.openai.model": "gpt-3.5-turbo"
+}
